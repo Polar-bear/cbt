@@ -1,0 +1,7 @@
+{
+	"Attack": 0.75,
+	"Item": 0.25,
+	"ItemHeal": 300,
+	"maxWT": 30,
+	"WTAuto": 1.5
+}

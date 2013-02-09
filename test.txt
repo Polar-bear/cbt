@@ -1,0 +1,42 @@
+Guard enters the arena
+Goblin enters the arena
+Dragon enters the arena
+Dragon attacks the Guard (564)
+Guard heals itself.
+Dragon attacks the Guard (866)
+Guard heals itself.
+Dragon attacks the Goblin (62)
+Guard attacks the Goblin (198)
+Dragon attacks the Goblin (50)
+Guard attacks the Goblin (50)
+Goblin attacks the Dragon (47)
+Guard heals itself.
+Dragon attacks the Guard (266)
+Guard attacks the Dragon (110)
+Dragon heals itself.
+Guard attacks the Goblin (379)
+Dragon attacks the Guard (260)
+Guard attacks the Dragon (147)
+Goblin attacks the Guard (16)
+Guard attacks the Goblin (58)
+Dragon attacks the Guard (981)
+Guard heals itself.
+Dragon heals itself.
+Guard attacks the Goblin (120)
+Dragon attacks the Goblin (840)
+Dragon as slain Goblin!
+Guard heals itself.
+Dragon attacks the Guard (144)
+Guard attacks the Dragon (393)
+Dragon attacks the Guard (231)
+Guard attacks the Dragon (52)
+Dragon attacks the Guard (527)
+Guard heals itself.
+Dragon attacks the Guard (903)
+Guard attacks the Dragon (33)
+Dragon attacks the Guard (15)
+Guard attacks the Dragon (96)
+Dragon attacks the Guard (812)
+Guard heals itself.
+Dragon attacks the Guard (843)
+Dragon as slain Guard!
