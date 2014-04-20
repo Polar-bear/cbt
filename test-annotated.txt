@@ -3,7 +3,7 @@ Dragon attacks Goblin for 489 damage
 Guard attacks Goblin for 267 damage
  Then the guard with 400 WT
 Guard has slain Goblin
- The Goblin has 600 HP, it dies before it can do anything
+ The Goblin has 600 HP, it dies before it can do anything, it's WT was 700 (currently 0)
 Dragon attacks Guard for 514 damage
  The Dragon's wait time after attacking was 600 (300 + 300)
 Guard heals for 300 health
