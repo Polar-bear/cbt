@@ -84,6 +84,8 @@ var getOpponents = function(players, me) {
 while(aliveCount(players) > 1) {
 	var current = order.shift();
 	if(players[current[0]].isDead()) continue;
+
+	//this is important
 	for(var i = 0; i < order.length; ++i) {
 		order[i][1] -= current[1];
 	}
@@ -105,6 +107,7 @@ while(aliveCount(players) > 1) {
 	}
 
 	order.push([current[0], players[current[0]].getSkill().getWaitTime()]);
+	//this is also important
 	order = order.sort(function(a, b) {
 		return a[1] - b[1];
 	});
