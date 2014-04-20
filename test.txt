@@ -1,12 +1,12 @@
-Dragon attacks Goblin attacks for 464 damage
-Guard attacks Goblin attacks for 269 damage
+Dragon attacks Goblin for 489 damage
+Guard attacks Goblin for 267 damage
 Guard has slain Goblin
-Dragon attacks Guard attacks for 503 damage
-Dragon attacks Guard attacks for 538 damage
+Dragon attacks Guard for 514 damage
 Guard heals for 300 health
-Dragon attacks Guard attacks for 479 damage
+Dragon attacks Guard for 478 damage
 Guard heals for 300 health
-Dragon attacks Guard attacks for 532 damage
+Dragon attacks Guard for 523 damage
 Guard heals for 300 health
-Dragon attacks Guard attacks for 480 damage
+Dragon attacks Guard for 470 damage
+Dragon attacks Guard for 459 damage
 Dragon has slain Guard

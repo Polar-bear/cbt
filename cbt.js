@@ -97,7 +97,7 @@ while(aliveCount(players) > 1) {
 	var effects = skill.getEffects(opponent);
 
 	if(effects[0] > 0) {
-		console.log(current[0], skill.name, opponent_name, "attacks for", effects[0], "damage");
+		console.log(current[0], skill.name, opponent_name, "for", effects[0], "damage");
 	}
 	if(effects[1] > 0) {
 		console.log(current[0], skill.name, "for", effects[1], "health");
@@ -106,7 +106,7 @@ while(aliveCount(players) > 1) {
 		console.log(current[0], "has slain", opponent_name);
 	}
 
-	order.push([current[0], players[current[0]].getSkill().getWaitTime()]);
+	order.push([current[0], current[1] + players[current[0]].getSkill().getWaitTime()]);
 	//this is also important
 	order = order.sort(function(a, b) {
 		return a[1] - b[1];
