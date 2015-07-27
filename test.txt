@@ -1,12 +1,32 @@
-Dragon attacks Goblin for 489 damage
-Guard attacks Goblin for 267 damage
-Guard has slain Goblin
-Dragon attacks Guard for 514 damage
-Guard heals for 300 health
-Dragon attacks Guard for 478 damage
-Guard heals for 300 health
+Guard has learned the skill heal for 300 wait time
+Guard has learned the skill attack for 500 wait time
+Goblin has learned the skill heal for 300 wait time
+Goblin has learned the skill attack for 600 wait time
+Dragon has learned the skill heal for 700 wait time
+Dragon has learned the skill attack for 300 wait time
+	 Dragon (300), Guard (500), Goblin (600)
+Dragon attacks Goblin for 504 damage
+	 Guard (200), Goblin (300), Dragon (600)
+Guard attacks Dragon for 253 damage
+	 Goblin (100), Dragon (400), Guard (700)
+Goblin heals for 142 health
+	 Dragon (300), Goblin (400), Guard (600)
+Dragon attacks Guard for 515 damage
+	 Goblin (100), Guard (300), Dragon (600)
+	 Guard (200), Goblin (400), Dragon (500)
+Guard heals for 245 health
+	 Goblin (200), Dragon (300), Guard (700)
+	 Dragon (100), Guard (500), Goblin (500)
+Dragon attacks Guard for 477 damage
+	 Guard (400), Goblin (400), Dragon (400)
+	 Goblin (0), Dragon (0), Guard (700)
+	 Dragon (0), Goblin (300), Guard (700)
 Dragon attacks Guard for 523 damage
-Guard heals for 300 health
-Dragon attacks Guard for 470 damage
-Dragon attacks Guard for 459 damage
+	 Goblin (300), Dragon (300), Guard (700)
+	 Dragon (0), Guard (400), Goblin (600)
+Dragon attacks Guard for 452 damage
 Dragon has slain Guard
+	 Dragon (300), Guard (400), Goblin (600)
+Dragon attacks Goblin for 467 damage
+Dragon has slain Goblin
+	 Guard (100), Goblin (300), Dragon (600)
